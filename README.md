@@ -37,6 +37,6 @@
 ## 🔧 Запуск локально
 
 ```bash
-git clone https://montana19.github.io/project_builder.git
-cd project_builder
+git clone https://montana19.github.io/multiadaptive_site.git
+cd multiadaptive_site
 open index.html
